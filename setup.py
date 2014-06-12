@@ -7,7 +7,7 @@ Usage:
 
 from setuptools import setup
 
-APP = ['sshfsgui.py']
+APP = ['FuseGUI.py']
 DATA_FILES = []
 OPTIONS = {'argv_emulation': True}
 
